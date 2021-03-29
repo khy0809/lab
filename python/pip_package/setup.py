@@ -3,7 +3,7 @@
 import setuptools
 
 REQUIRED_PACKAGES = [
-    'numpy >= 1.13.3',
+    'numpy == 1.18.5',
     'six >= 1.10.0',
 ]
 
